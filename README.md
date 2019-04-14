@@ -21,3 +21,10 @@ git clone https://github.com/hjlopes/sagemaker-sentiment-analysis
 exit
 ```
 
+## Web app final result
+
+The final project will be executed in a simple html page which can be deployed anywhere. 
+
+You will see the following:
+
+![Web app example](./webapp.gif) 
